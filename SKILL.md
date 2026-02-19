@@ -3,8 +3,8 @@ name: software-disruption-analysis
 description: Analyze any industry through Marc Andreessen's "software is eating the world" lens to identify disruption opportunities and threats.
 license: MIT
 metadata:
-  version: 1.0.5011
   author: sethmblack
+  version: 1.0.5012
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - compression
